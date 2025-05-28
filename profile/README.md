@@ -10,12 +10,14 @@ We build fast, smart tools for Pokémon TCG collectors — and we do it with caf
 ## 🔔 What We Do
 
 We provide real-time alerts for:
-- Restocks of high-demand Pokémon TCG products
-- Global price drops across 50+ verified retailers
-- Exclusive early drops and community-only deals
+- 🛒 Restocks of high-demand Pokémon TCG products  
+- 💸 Global price drops across 50+ verified retailers  
+- 🚨 Exclusive early drops and community-only deals  
+- 🤖 Automated checkout tech for lightning-fast snipes
 
 Our tech stack includes:
 - ⚙️ Cloudflare Workers & Pages
+- 🧠 Cloudflare D1 & KV
 - 💬 Discord bots & webhooks
 - 🌐 Node.js + Yarn + Wrangler
 - 📈 Google Analytics (v4 / MPv2)
