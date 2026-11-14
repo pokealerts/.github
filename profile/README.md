@@ -1,4 +1,4 @@
-<img src="https://poke-alerts.com/assets/images/apple-touch-icon.png" width="96" alt="Poke Alerts">
+<img src="./logo.png" width="96" alt="Poke Alerts">
 
 # Poke Alerts
 
